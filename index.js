@@ -12,4 +12,3 @@ function fuzzyMatch (list, partialName) {
     return driverName.slice(0, lengthOfName) === partialName;
   });
 }
-
